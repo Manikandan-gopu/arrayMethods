@@ -90,11 +90,5 @@ request.onload = function () {
 
 
 
-// const tot_pop = JSON.parse(this.response);
-//     const population = tot_pop.reduce((acc,value)=>{
-//         return acc+value.population;
 
-//     },0);
-//     console.log(population);
-// }
 
